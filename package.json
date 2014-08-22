@@ -1,0 +1,13 @@
+{
+    "name": "mybook",
+    "version": "0.0.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/howtocode-com-bd/test2.git"
+    },
+    "author": "Nuhil <nuhilmehdy@gmail.com>",
+    "dependencies": {
+        "gitbook-plugin-disqus": "0.0.1"
+    }
+}
