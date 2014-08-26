@@ -1,12 +1,12 @@
 {
-    "name": "mybook",
-    "version": "0.0.0",
+    "name": "csharp",
+    "version": "1.0.0",
     "description": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/howtocode-com-bd/test2.git"
+        "url": "https://github.com/howtocode-com-bd/csharp.howtocode.com.bd.git"
     },
-    "author": "Nuhil <nuhilmehdy@gmail.com>",
+    "author": "HowToCode <ask@howtocode.com.bd>",
     "dependencies": {
         "gitbook-plugin-disqus": "0.0.1"
     }
