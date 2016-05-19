@@ -23,12 +23,12 @@
   
 #### কি লাগবে কোড করতে
 
-### যদি উইন্ডোজে থাকেন
+#### যদি উইন্ডোজে থাকেন
 [Visual Studio 2015 Community Edition](https://www.visualstudio.com/products/visual-studio-community-vs) with [Update 2](https://go.microsoft.com/fwlink/?LinkId=798481)  
 অথবা [Visual Studio Code](https://code.visualstudio.com/) এর সাথে [OmniSharp](http://www.omnisharp.net/). যদি পুরনো Visual Studio থাকে, আমাদের টিউটোরিয়াল দেখতে পারবেন কিন্তু  
 [.Net core](https://dotnet.github.io/) ব্যবহার করতে পারবেন না। সেক্ষেত্রে পুরনো .Net 4.5 ব্যবহার করেও আমাদের টিউটোরিয়াল দেখতে ও শিখতে পারবেন।  
 
-### যদি লিনাক্স বা ওএসএক্স এ থাকেন
+#### যদি লিনাক্স বা ওএসএক্স এ থাকেন
 [Visual Studio Code](https://code.visualstudio.com/) এর সাথে [OmniSharp](http://www.omnisharp.net/). চাইলে আমাদের সাথে [.Net core](https://dotnet.github.io/) ব্যবহার করতে পারেন  
 অথবা [Mono](http://www.mono-project.com/) ব্যবহার করতে পারেন। 
 
